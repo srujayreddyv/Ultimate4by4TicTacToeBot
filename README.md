@@ -1,4 +1,4 @@
-# Ultimate4by4_tic_tac_toe_bot
+# Ultimate 4by4 Tic Tac Toe Bot
 The game can be run in three modes :
 
 1-> MyBot vs HumanPlayer  
